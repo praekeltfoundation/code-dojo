@@ -29,10 +29,12 @@ Practice
 --------
 
 The Unix command line interface (CLI) is a daily tool for many
-software developers. We use it to install and run programs, inspect
-the state of the computers we're using, move files and data around and
-perform simple operations on data. The command line tools are
-pre-installed on almost every Unix system (e.g. Linux, OS X).
+software developers. Unix is a computer operating system that
+exists in many variants (such as Linux and Mac OS X). We use
+the CLI to install and run programs, inspect the state of the
+computers we're using, move files and data around and perform
+simple operations on data. The command line tools are
+pre-installed on almost every Unix system.
 
 Many small command line utilities are available. Each of them aims to
 do one thing well and to be easily composable with others.
@@ -44,6 +46,9 @@ when our programs produce unexpected output.
 
 Scorpion
 --------
+
+Just like a real scorpion, this is a bit scary. You're not expected
+to get it all done on your first try.
 
 * Download a pair of inbound and outbound message CSV files from a Vumi Go USSD conversation.
 
