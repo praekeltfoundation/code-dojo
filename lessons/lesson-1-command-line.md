@@ -57,4 +57,4 @@ Scorpion
 Resources
 ---------
 
-* The CLI Crash Course (http://cli.learncodethehardway.org/book/ex2.html)
+* The CLI Crash Course (http://cli.learncodethehardway.org/)
