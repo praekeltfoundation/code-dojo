@@ -63,3 +63,4 @@ Resources
 ---------
 
 * The CLI Crash Course (http://cli.learncodethehardway.org/)
+* Command Cheat Sheet (https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-%28-basics-%29)
