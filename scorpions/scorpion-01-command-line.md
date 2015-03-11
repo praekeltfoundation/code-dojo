@@ -1,9 +1,6 @@
 Manipulating Files on the Command Line
 ======================================
 
-Practice
---------
-
 The Unix command line interface (CLI) is a daily tool for many
 software developers. Unix is a computer operating system that
 exists in many variants (such as Linux and Mac OS X). We use
