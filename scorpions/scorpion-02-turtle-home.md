@@ -14,16 +14,14 @@ Python comes with a built in turtle. It knows how to follow simple
 instructions but it doesn't have a home. Your task is to teach it how
 to build one.
 
-Part 1: Getting to know your turtle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Part 1: Getting to know your turtle
 
 The first step is just to open the Python interpreter, find the
 turtle, and start giving it instructions. Starting trying to build a
 house to get a feel for what sorts of instructions you'll be using.
 
 
-Part 2: Communicating better
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#### Part 2: Communicating better
 
 After playing with the turtle for a bit, you'll likely have
 encountered some frustrations. You'll likely want to save your work,
