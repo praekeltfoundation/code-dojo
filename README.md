@@ -22,3 +22,4 @@ Philosophy
  * [Speed of Information and Computation](philosophy/philosophy-02-speed-of-information.md)
  * [What is Coding?](philosophy/philosophy-03-what-is-coding.md)
  * [Mother Earth Mother Board](philosophy/philosophy-04-mother-earth-mother-board.md)
+ * [Structure of a Python](philosophy/philosophy-05-structure-of-a-python.md)
