@@ -118,8 +118,8 @@ in this case.
 Another example a block statement is a loop or *for statement*:
 
     for x in [1, 2, 3]:
-       y = x * x
-       print y
+        y = x * x
+        print y
 
 In python, a loop runs the given statement block once for each item in
 a list. In the example above the list is ``[1, 2, 3]``, so the block
@@ -130,8 +130,8 @@ The last common kind of block statement is the *if statement* which
 runs the contained block if some expression evaluates to a "true"
 result:
 
-   if x == 3:
-      print "x is three!"
+    if x == 3:
+        print "x is three!"
 
 This will print "x is three!" is the value of ``x`` is ``3`` and no
 execute any statements otherwise. ``x == 3``.
