@@ -55,6 +55,10 @@ quotes. For example, ``"a"`` evaluates to the letter a, ``'red'``
 evaluates to the word "red" and ``"Hello, world!"`` evaluates to the
 sentence "Hello, world!".
 
+There are also a few special constants. The constants ``True`` and
+``False`` represent the concepts of something being true or being
+false. The constant ``None`` represents the concept of something being
+absent.
 
 Lists and tuples
 ----------------
@@ -146,8 +150,8 @@ expressions to produce new expressions. For example, in ``2 + 3``,
 ``+`` operators on ``2`` and ``3`` and adds them to produce ``5``.
 
 ``==`` is an example of a comparison operators -- it compares two
-expressions and returns "true" if they are equal and "false" if they
-are not. ``<``, ``>``, ``>=`` and ``<=`` are other examples of
+expressions and returns ``True`` if they are equal and ``False`` if
+they are not. ``<``, ``>``, ``>=`` and ``<=`` are other examples of
 comparison operators. Try them out to see what they do.
 
 
